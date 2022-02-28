@@ -2,7 +2,7 @@ import orderByProps from './orderByProps';
 
 const obj = {
   name: 'мечник',
-  health: 10,
+  health: 20,
   level: 2,
   attack: 80,
   defence: 40,
